@@ -2,10 +2,10 @@
 
 I am a Data Scientist at Nike interested in sport (🏀 mostly) and the environment. At work, I lead a project driving inventory optimization decisions, but in my free time I love to read, hoop, hike, and develop my personal projects.
 
-## Data Science Skillset
+### Data Science Skillset
 R, Python, SQL, AWS, Snowflake, o9, Tableau, Microsoft Office
 
-## Education
+### Education
 University of Georgia, Terry College of Business
 - M.S. Business Analytics (2022)
 - B.B.A. Management Information Systems (2022)
