@@ -1,6 +1,6 @@
 ## Welcome!
 
-I am a Data Scientist at Nike interested in sport (🏀 mostly) and the environment. At work I lead a project driving inventory optimization decisions. In my free time I love to read, hoop, hike, and develop my personal projects. Additionally, I am experimenting with astrophotography as my newest hobby.
+I am a Data Scientist at Nike interested in sport (⚾️ & 🏀 mostly) and the environment. At work I lead a project driving inventory optimization decisions. In my free time I love to read, hoop, hike, and develop my personal projects. Additionally, I am experimenting with astrophotography as my newest hobby.
 
 ### Data Science Skillset
 R, Python, SQL, AWS, Snowflake, o9, Tableau, Microsoft Office
